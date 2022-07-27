@@ -1,0 +1,14 @@
+.select {
+  width: 250px;
+  height: 400px;
+  border: 1px solid black;
+  margin-left: 45px;
+}
+
+
+.notSelect {
+  width: 250px;
+  height: 400px;
+  border: dashed red;
+  margin-left: 45px;
+}
