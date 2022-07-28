@@ -1,5 +1,6 @@
 import './App.css';
-import SelectInput from '../SelectInput'
+import SelectInput from '../../components/SelectInput'
+// import Example from '../../components/Example'
 
 function App() {
   return (

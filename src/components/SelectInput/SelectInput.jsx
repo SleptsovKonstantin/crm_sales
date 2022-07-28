@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-import Select from "../../components/Select";
-import { getDatabase } from "../../api/services/getDatabase";
 import { db } from "../../api/database/index";
 
 import "./SelectInput.css";
